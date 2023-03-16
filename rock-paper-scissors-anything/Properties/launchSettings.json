@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "rock-paper-scissors-anything": {
+      "commandName": "Project",
+      "commandLineArgs": "rock paper scissors lizard spock"
+    }
+  }
+}
